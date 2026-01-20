@@ -1,0 +1,3 @@
+Name is: nuwan
+Age is: 32
+Telephone number is: 27855
